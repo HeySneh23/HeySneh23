@@ -1,25 +1,25 @@
 # Hi there 👋 I'm Sneha Das  
 
-📍 India | 🎓 CSE'26 Undergraduate | 🤖 AI/ML Enthusiast  
+📍 India | 🎓 CSE'26 Undergraduate | 🤖 Specializing in Artificial Intelligence & Machine Learning  
 
 ---
 
-## About Me  
-- Passionate about Artificial Intelligence & Machine Learning  
-- Currently pursuing Computer Science and Engineering (CSE'26)  
-- Always eager to explore innovative projects and research opportunities  
-- 📧 Reach me at:dassneha5432@gmail.com  
-- 🔗 [Resume / LinkedIn](https://www.linkedin.com/in/sneha-das-448571268/)  
+### About Me  
+Undergraduate student specializing in Artificial Intelligence & Machine Learning.  
+Passionate about solving real-world problems through data-driven solutions and always eager to explore research, innovation, and impactful projects.  
+
+📧 Email: **dassneha5432@gmail.com**  
+📄 [Check my Resume](./RESUME.pdf)  
 
 ---
 
-## Projects  
-- **[K-Means Clustering Project]** – Implementation of unsupervised ML clustering  
-- **[Machine Learning Project]** – Experimenting with various ML models  
-*(More coming soon...)*  
+### Projects  
+- **Accomodation Predictor (Pred App):** Machine learning analytics application predicting accommodation availability with ~86% accuracy. Full source code in the `web-app` branch.  
+- **QuickBite (Zomato Clone):** Full-stack MERN application featuring restaurant search, menu browsing, authentication, and order management.  
+- **Cluster Accuracy Maximizer:** ML project designed to optimize and evaluate clustering model accuracy.  
+- **Travel Agency Website:** Responsive static site built using vanilla HTML, CSS, and JavaScript showcasing travel destinations.  
 
 ---
 
-## Socials  
+### Socials  
 🌐 [LinkedIn](https://www.linkedin.com/in/sneha-das-448571268/)  
-
