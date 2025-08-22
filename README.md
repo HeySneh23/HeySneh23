@@ -9,7 +9,7 @@ Undergraduate student specializing in Artificial Intelligence & Machine Learning
 Passionate about solving real-world problems through data-driven solutions and always eager to explore research, innovation, and impactful projects.  
 
 📧 Email: **dassneha5432@gmail.com**  
-📄 [Check my Resume](./RESUME.pdf)  
+📄 [Check my Resume](https://github.com/HeySneh23/My-Resume/blob/main/RESUME.pdf)  
 
 ---
 
