@@ -17,7 +17,7 @@ Passionate about solving real-world problems through data-driven solutions and a
 - **[Accomodation Predictor (Pred App)](https://github.com/HeySneh23/Machine-Learning-Project):** Machine learning analytics application predicting accommodation availability with ~86% accuracy. Full source code in the `web-app` branch.  
 - **[QuickBite (Zomato Clone)](https://github.com/HeySneh23/QuickBite-ZomatoClone):** Full-stack MERN application featuring restaurant search, menu browsing, authentication, and order management.  
 - **[Cluster Accuracy Maximizer](https://github.com/HeySneh23/ClusterAccuracyMaximizer):** ML project designed to optimize and evaluate clustering model accuracy.  
-- **[Travel Agency Website]:** Responsive static site built using vanilla HTML, CSS, and JavaScript showcasing travel destinations.  
+- **[Travel Agency Website](https://github.com/HeySneh23/Travel-Agency):** Responsive static site built using vanilla HTML, CSS, and JavaScript showcasing travel destinations.  
 
 ---
 
